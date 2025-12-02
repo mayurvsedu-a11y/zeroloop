@@ -1,0 +1,7 @@
+{
+  "name": "zeroloop",
+  "description": "An intelligent waste management tool for restaurants that analyzes food waste photos to estimate weight, calculate financial loss, and provide reduction strategies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
